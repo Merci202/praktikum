@@ -1,7 +1,7 @@
 
 
 ## Overview
-This Flask application provides an API for detecting circular objects in images and identifying their colors. It's particularly tuned to distinguish between red objects and transparent ones, which is useful in various automation scenarios.
+This Flask application provides an API for detecting circular objects in images and identifying their colors. It's particularly tuned to distinguish between red objects and transparent ones, which is useful in wine glasses detction.
 
 ## Features
 - **Circle Detection**: Detect circles in any given image with adjustable parameters for sensitivity and accuracy.
